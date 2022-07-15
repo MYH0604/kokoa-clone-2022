@@ -16,27 +16,11 @@
   color: #2e363e;
 }
 .nav__notification {
-  background-color: tomato;
-  display: flex;
-  width: 30px;
-  height: 30px;
-  border-radius: 15px;
-  justify-content: center;
-  align-items: center;
-  color: white;
-  font-weight: 600;
-  position: absolute;
   left: 17px;
   bottom: 17px;
+  position: absolute;
 }
 .nav__checksign {
-  background-color: tomato;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 5px;
-  height: 5px;
-  border-radius: 50%;
   position: absolute;
   left: 28px;
 }
